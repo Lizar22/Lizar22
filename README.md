@@ -1,12 +1,6 @@
 <h1 align="left">Hi there! 👋</h1>
 
-###
-
-<br clear="both">
-
-<p align="left"></p>
-
-###
+<br>
 
 <h2 align="left">👩‍💻About me</h2>
 
@@ -35,8 +29,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
@@ -54,7 +46,7 @@
 
 ###
 
-<h6 align="left">Working also with:</h6>
+<h4 align="left">Working also with:</h4>
 
 ###
 
@@ -71,6 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lizar22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
+<br>
 <br>
 
 <h2 align="left">🌟 Let's connect!</h2>
