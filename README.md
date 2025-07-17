@@ -1,4 +1,4 @@
-<h1 align="left">Hi there! 👋</h1>
+<h1 align="center">Hi there! 👋 I'm Lara 😊</h1>
 
 <br>
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Lara 😊 a former professional dancer and gender equality specialist who has transitioned into a Junior Java Developer, specializing in backend and DevOps, where I’ve found the perfect space to combine continuous learning, logic, creativity, and problem-solving.<br><br>✨My diverse background in dance, culture and gender equality has given me strong analytical thinking, adaptability, and excellent teamwork skills. <br><br>🎯 I enjoy working on projects with purpose, always looking for creative and efficient solutions, believing that every challenge is a new opportunity to grow, learn, and make a positive impact.</p>
+<p align="left">Former professional dancer and gender equality specialist, now transitioned into a Junior Java Developer specializing in backend and DevOps—where I’ve discovered the perfect space to blend continuous learning, logic, creativity, and problem-solving.<br><br>✨My diverse background in dance, culture and gender equality has given me strong analytical thinking, adaptability, and excellent teamwork skills. <br><br>🎯 I enjoy working on projects with purpose, always looking for creative and efficient solutions, believing that every challenge is a new opportunity to grow, learn, and make a positive impact.</p>
 
 <br>
 
