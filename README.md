@@ -2,11 +2,17 @@
 
 <br>
 
-<h2 align="left">👩‍💻About me</h2>
+**Former professional dancer and gender equality specialist**, now thriving as a **Junior Backend Developer** with a specialization in **Java and DevOps**. I've found the perfect environment to blend continuous learning, logical thinking, creativity, and problem-solving.
 
-###
+🌍 My diverse background in **performing arts, cultural work, and gender equality** equips me with:
+- Strong **analytical thinking**
+- High **adaptability** in dynamic environments
+- Excellent **teamwork and communication** skills
+- A unique **empathy-driven approach** to technology
 
-<p align="left">Former professional dancer and gender equality specialist, now transitioned into a Junior Java Developer specializing in backend and DevOps—where I’ve discovered the perfect space to blend continuous learning, logic, creativity, and problem-solving.<br><br>✨My diverse background in dance, culture and gender equality has given me strong analytical thinking, adaptability, and excellent teamwork skills. <br><br>🎯 I enjoy working on projects with purpose, always looking for creative and efficient solutions, believing that every challenge is a new opportunity to grow, learn, and make a positive impact.</p>
+🎯 I’m driven by projects that have meaningful impact—whether that’s building clean and scalable systems, optimizing deployments, or contributing to inclusive digital experiences. I take pride in crafting solutions that are both technically sound and thoughtfully designed, always questioning how things can be done better.
+
+🧠 In every challenge, I see a chance to learn something new, contribute creatively, and deepen my understanding—not just of code, but of the people and purpose behind it.
 
 <br>
 
