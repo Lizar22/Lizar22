@@ -5,13 +5,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira&weight=500&size=32&pause=1000&color=0192b1&center=true&width=900&height=200&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC+I'm+Lara+%F0%9F%91%BE;Welcome+to+my+GitHub+Profile+%F0%9F%98%8A" 
+      src="https://readme-typing-svg.demolab.com?font=Fira&weight=500&size=32&pause=1000&color=6fb0ce&center=true&width=900&height=200&lines=Hi+there!+I'm+Lara+%F0%9F%91%8B%F0%9F%8F%BC;Welcome+to+my+GitHub+Profile+%F0%9F%98%8A" 
       alt="Typing SVG" 
     />
   </a>
 </p>
-
-
 
 
 <h2 align="left">✨ About me</h2>
