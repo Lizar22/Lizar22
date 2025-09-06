@@ -44,6 +44,7 @@
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo" />
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" alt="swagger logo" />
   <img src="https://cdn.simpleicons.org/cloudinary/FF6C37" height="40" alt="cloudinary logo" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo" />
 </div>
 
 <br>
