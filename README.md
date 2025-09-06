@@ -1,4 +1,16 @@
-<h1 align="center">Hi there! 👋 I'm Lara 😊</h1>
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira&weight=500&size=32&pause=1000&color=12B9E8&center=true&width=900&height=200&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC+I'm+Lara+%F0%9F%91%BE;Welcome+to+my+GitHub+Profile+%F0%9F%98%8A" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
+
+
+<h2 align="left">✨ About me</h2>
 
 <br>
 
@@ -60,16 +72,28 @@
 
 <br>
 
-<h2 align="left">🔥 Github Stats</h2>
+<h2 align="left">🔥 Github Analytics</h2>
 
 ###
+<p align="center">
+  <img 
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/Lizar22?cardType=github&preferLogin=false&Background=000000&Text=FFFFFF&Title=12B9E8&Ring=12B9E8&Icon=12B9E8" 
+    width="400" 
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Lizar22&background=000000&currStreakLabel=12B9E8&fire=12B9E8&ring=12B9E8&sideLabels=FFFFFF&dates=FFFFFF&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" 
+    width="400" 
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lizar22&layout=compact&bg_color=000000&title_color=12B9E8&text_color=FFFFFF&icon_color=12B9E8" 
+    width="400" 
+  />  
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lizar22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=Stats" height="151" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lizar22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
-
-<br>
 <br>
 
 <h2 align="left">🌟 Let's connect!</h2>
